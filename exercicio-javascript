@@ -1,0 +1,14 @@
+# Code Together
+## Listas de Exercícios
+
+1.Inicio
+2.receber o primeiro dado fazendeiro
+3.receber o segundo dado lobo
+4.receber o terceiro dado cabra
+5.receber o quarto dado alfafa
+6.PROCESSAMENTO: O homem leva primeiro a cabra para o lado oposto do rio, deixando o lobo e o alfafa no lado original.
+Ele retorna sozinho ao lado original (sem a cabra).
+Em seguida, ele leva o lobo para o lado oposto do rio, mas desta vez traz a cabra de volta ao lado original.
+Deixa o lobo no lado oposto do rio e leva o alfafa para o lado original.
+Por ultimo, ele retorna sozinho ao lado oposto, onde a cabra e o lobo estão.
+7.Fim
